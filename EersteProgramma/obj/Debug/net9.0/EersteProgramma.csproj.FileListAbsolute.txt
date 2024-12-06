@@ -1,0 +1,15 @@
+K:\Kev&Ro\EersteProgramma\bin\Debug\net9.0\EersteProgramma.exe
+K:\Kev&Ro\EersteProgramma\bin\Debug\net9.0\EersteProgramma.deps.json
+K:\Kev&Ro\EersteProgramma\bin\Debug\net9.0\EersteProgramma.runtimeconfig.json
+K:\Kev&Ro\EersteProgramma\bin\Debug\net9.0\EersteProgramma.dll
+K:\Kev&Ro\EersteProgramma\bin\Debug\net9.0\EersteProgramma.pdb
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\EersteProgramma.GeneratedMSBuildEditorConfig.editorconfig
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\EersteProgramma.AssemblyInfoInputs.cache
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\EersteProgramma.AssemblyInfo.cs
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\EersteProgramma.csproj.CoreCompileInputs.cache
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\EersteProgramma.sourcelink.json
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\EersteProgramma.dll
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\refint\EersteProgramma.dll
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\EersteProgramma.pdb
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\EersteProgramma.genruntimeconfig.cache
+K:\Kev&Ro\EersteProgramma\obj\Debug\net9.0\ref\EersteProgramma.dll
